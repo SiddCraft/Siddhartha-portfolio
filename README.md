@@ -1,32 +1,47 @@
-💼 Personal Portfolio Website<br>
-This is my personal developer portfolio website, built to showcase my skills, projects, and experiences in a clean, modern, and interactive layout. It serves as a digital introduction and a central hub for potential employers, collaborators, or anyone interested in my work.
+# 💼 Siddhartha – Personal Portfolio
 
-🔍 Features<br>
-⚡ Smooth animations and transitions for an engaging user experience
+This is my personal developer portfolio website showcasing my skills, projects, certifications, and technical experience in software development and electronics.
 
-🌙 Dark theme for a sleek and professional look
+🌐 **Live Website:**  
+👉 https://siddcraft.github.io/Siddhartha-portfolio/
 
-🧩 Modular sections for About, Skills, Projects, Education, and Contact
+---
 
-📬 Responsive contact form with glowing inputs and animations
+## 🚀 Features
 
-💡 Built with HTML, CSS, JavaScript, and modern UI/UX practices
+- ⚡ Smooth animations and transitions
+- 🌙 Modern dark theme
+- 📱 Fully responsive design (Mobile + Desktop)
+- 🧩 Modular sections (About, Skills, Projects, Certifications, Education, Contact)
+- 📬 Functional contact form using Formspree
+- 💡 Built with HTML, CSS, and JavaScript
 
-<mark> 📱 Fully responsive design optimized for mobile and desktop.</mark>
+---
 
-📂 Sections Included<br>
-Home – Brief intro and call to action
+## 📂 Sections Included
 
-About – Who I am and what I do
+- Home – Introduction & call to action  
+- About – Profile & background  
+- Skills – Technical stack  
+- Projects – Highlighted works  
+- Certifications – Earned certifications  
+- Education – Academic details  
+- Contact – Contact form  
 
-Skills – Technical stack and tools I use
+---
 
-Projects – Highlights of recent work
+## 🛠 Tech Stack
 
-Education – Academic background
+- HTML5  
+- CSS3  
+- JavaScript  
 
-Contact – Easy-to-use contact form with live effects
+---
 
-📌 check out my portfolio at 
+## 📌 About This Project
 
-Portfolio template https://www.figma.com/design/6633bIbNGicww6i1L6Cvm0/Personal-website-%7C-Portfolio--Community-?node-id=585-635&t=D4U7WVr5hBn8NgWq-0
+This portfolio reflects my journey as an ECE student and aspiring software developer, highlighting my skills in web development, embedded systems, and problem solving.
+
+---
+
+⭐ If you like it, feel free to star the repository!
